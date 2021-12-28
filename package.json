@@ -1,0 +1,20 @@
+{
+  "name": "ftsv",
+  "version": "1.0.0",
+  "description": "github profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ftsv/ftsv.git"
+  },
+  "keywords": [],
+  "author": "fetisov_fd@icloud.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ftsv/ftsv/issues"
+  },
+  "homepage": "https://github.com/ftsv/ftsv#readme"
+}
