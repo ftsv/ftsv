@@ -1,5 +1,18 @@
-### Hi there 👋
+#### Hi there 👋
+---
+### Junior Frontend Developer ###
 
+- 🔭 I’m currently working on:
+
+real estate app for local company (job)
+- **Stack**: React, Mobx, Node.js
+
+CRM app for lawyer company (course work)
+- **Stack**: React, TypeScrypt, Bootstrap, Node.js, Express, MongoDB
+
+---
+
+### open to job offers
 
 <!--
 **ftsv/ftsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
