@@ -26,6 +26,10 @@ Real estate app for local company (job) (**Frontend**):
 ![ANT Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
 ![FONT AWEOSME](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 #### Other
+![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white)
+![vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![npm](https://camo.githubusercontent.com/fd60ad1cae960eb3117e20dc1305b39f820004bf601b0e00ea032eccb9897dfd/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d6e706d26636f6c6f723d434233383337266c6f676f3d6e706d266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
