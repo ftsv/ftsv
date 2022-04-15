@@ -1,6 +1,6 @@
 #### Hi there 👋
 ---
-### Junior Frontend Developer ###
+### Frontend Developer ###
 
 
 - 🔭 I’m currently working on:
