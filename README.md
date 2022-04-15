@@ -1,20 +1,6 @@
 #### Hi there 👋
 ---
 ### Frontend Developer ###
-
-
-- 🔭 I’m currently working on:
-
-![image](https://www.codewars.com/users/ftsv/badges/small)
-
-CRM app for lawyer company (course work) (**Fronted + Backend**):
-- ![REACT WEB](https://img.shields.io/badge/React_Web-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=white) ![NODE JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![EXPRESS JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
-
-Real estate app for local company (job) (**Frontend**):
-
-- ![REACT WEB](https://img.shields.io/badge/React_Web-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![MOBX](https://img.shields.io/badge/Mobx-D22128?style=for-the-badge&logo=mobx&logoColor=white) ![NODE JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-
 ---
 #### Languages
 ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
